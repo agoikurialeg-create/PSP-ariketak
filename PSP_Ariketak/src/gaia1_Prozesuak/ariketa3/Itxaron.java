@@ -1,4 +1,4 @@
-package gaia1_ariketa3;
+package gaia1_Prozesuak.ariketa3;
 
 public class Itxaron {
 
